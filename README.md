@@ -86,3 +86,7 @@ Some Strategies for Overcoming theses Challenges include effective communication
 
 
 ### Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+-  Vague Prompt: "Make me a sandwich."
+   1. (This is vague because it doesn't specify the type of sandwich and could be any sandwich.)
+- Improved Prompt:"Give me a step-by-step recipe for making a cheese and bacon toasted sandwich using brown bread."  
+  1. (This prompt is specific and clear about the type of sandwich and the type of bread, providing detailed instructions for the recipe.)
